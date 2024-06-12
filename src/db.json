@@ -1,31 +1,81 @@
 {
   "groups": [
     {
-      "id": "1",
+      "id": "7eed",
+      "groupName": "Friends"
+    },
+    {
+      "id": "4a6e",
       "groupName": "Family"
     },
     {
-      "id": "6578",
-      "groupName": "friends"
-    },
-    {
-      "id": "7594",
-      "groupName": "react group"
-    },
-    {
-      "id": "43fa",
-      "groupName": "Javascript group"
-    },
-    {
-      "id": "f2f3",
-      "groupName": "office group"
-    },
-    {
-      "id": "2559",
-      "groupName": "Share market group"
+      "id": "7c32",
+      "groupName": "Infinitech Group"
     }
   ],
-  "contacts": [],
-  "libraries": [],
-  "message": []
+  "contacts": [
+    {
+      "id": "07c5",
+      "userName": "User1",
+      "mobileNo": "8955565689",
+      "emailId": "user1@gmail.com",
+      "userGroup": "7eed"
+    },
+    {
+      "id": "5bd1",
+      "userName": "User2",
+      "mobileNo": "8485565689",
+      "emailId": "user2@gmail.com",
+      "userGroup": "7eed"
+    },
+    {
+      "id": "e5ab",
+      "userName": "UserFamily1",
+      "mobileNo": "8485565689",
+      "emailId": "userfamily1@gmail.com",
+      "userGroup": "4a6e"
+    },
+    {
+      "id": "bc07",
+      "userName": "UserFamily2",
+      "mobileNo": "8485565689",
+      "emailId": "userfamily2@gmail.com",
+      "userGroup": "4a6e"
+    }
+  ],
+  "libraries": [
+    {
+      "id": "ae22",
+      "libraryName": "Holi"
+    },
+    {
+      "id": "eabe",
+      "libraryName": "Ganesha Jayanti"
+    },
+    {
+      "id": "64f7",
+      "libraryName": "Navratri"
+    },
+    {
+      "id": "49f0",
+      "libraryName": "Ram Navmi"
+    }
+  ],
+  "message": [
+    {
+      "id": "458d",
+      "libraryName": "ae22",
+      "txtMessage": "Happy Holi"
+    },
+    {
+      "id": "ce42",
+      "libraryName": "eabe",
+      "txtMessage": "Happy Ganesh Gayanti"
+    },
+    {
+      "id": "a54a",
+      "libraryName": "49f0",
+      "txtMessage": "Happy Ram Navmi"
+    }
+  ]
 }
