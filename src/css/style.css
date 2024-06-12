@@ -1,0 +1,10 @@
+a{
+    text-decoration:none
+}
+.cyan {
+    padding:15px 0;
+    background-color: #00bcd4 !important;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+.navbar-brand{ color:white; }
+.custom-navbar a{ color:white;}

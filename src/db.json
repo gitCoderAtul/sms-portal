@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "groupName": "Family"
+    },
+    {
+      "id": "6578",
+      "groupName": "friends"
+    },
+    {
+      "id": "7594",
+      "groupName": "react group"
+    },
+    {
+      "id": "43fa",
+      "groupName": "Javascript group"
+    },
+    {
+      "id": "f2f3",
+      "groupName": "office group"
+    },
+    {
+      "id": "2559",
+      "groupName": "Share market group"
+    }
+  ],
+  "contacts": [],
+  "libraries": [],
+  "message": []
+}
